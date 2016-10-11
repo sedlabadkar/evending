@@ -1,0 +1,52 @@
+{
+  "project_info": {
+    "project_id": "evending1-97f5d",
+    "project_number": "427046269041",
+    "name": "eVending1"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427046269041:android:8fa49f74a1cb5398",
+        "client_id": "android:com.mob.sachin.ev",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.mob.sachin.ev",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427046269041-2t7pj9s8oju3br2uikdv7flovi4k0rla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mob.sachin.ev",
+            "certificate_hash": "B442E7F15A3D85DAB9566CC96626F20B51524FED"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
